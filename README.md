@@ -6,6 +6,8 @@ In the `.gitconfig` file, there's an alias named `rst`. This is a custom command
 
 #### How to Use git rst
 
+First, copy the code to `.gitconfig`
+
 The `git rst` command is designed to automate several git operations into one step. It's usage is as follows:
 
 ```
